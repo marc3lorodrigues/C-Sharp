@@ -1,0 +1,15 @@
+D:\Repositorio\csharp\projects\AppConsole\bin\Debug\net6.0\Appconsole.exe
+D:\Repositorio\csharp\projects\AppConsole\bin\Debug\net6.0\Appconsole.deps.json
+D:\Repositorio\csharp\projects\AppConsole\bin\Debug\net6.0\Appconsole.runtimeconfig.json
+D:\Repositorio\csharp\projects\AppConsole\bin\Debug\net6.0\Appconsole.dll
+D:\Repositorio\csharp\projects\AppConsole\bin\Debug\net6.0\Appconsole.pdb
+D:\Repositorio\csharp\projects\AppConsole\obj\Debug\net6.0\Appconsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\csharp\projects\AppConsole\obj\Debug\net6.0\Appconsole.AssemblyInfoInputs.cache
+D:\Repositorio\csharp\projects\AppConsole\obj\Debug\net6.0\Appconsole.AssemblyInfo.cs
+D:\Repositorio\csharp\projects\AppConsole\obj\Debug\net6.0\Appconsole.csproj.CoreCompileInputs.cache
+D:\Repositorio\csharp\projects\AppConsole\obj\Debug\net6.0\Appconsole.sourcelink.json
+D:\Repositorio\csharp\projects\AppConsole\obj\Debug\net6.0\Appconsole.dll
+D:\Repositorio\csharp\projects\AppConsole\obj\Debug\net6.0\refint\Appconsole.dll
+D:\Repositorio\csharp\projects\AppConsole\obj\Debug\net6.0\Appconsole.pdb
+D:\Repositorio\csharp\projects\AppConsole\obj\Debug\net6.0\Appconsole.genruntimeconfig.cache
+D:\Repositorio\csharp\projects\AppConsole\obj\Debug\net6.0\ref\Appconsole.dll
