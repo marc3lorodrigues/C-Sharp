@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositorio\\csharp\\projects\\AppConsole\\Appconsole.csproj": {}
+    "D:\\Repositorio\\csharp\\projects\\Appconsole\\Appconsole.csproj": {}
   },
   "projects": {
-    "D:\\Repositorio\\csharp\\projects\\AppConsole\\Appconsole.csproj": {
+    "D:\\Repositorio\\csharp\\projects\\Appconsole\\Appconsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorio\\csharp\\projects\\AppConsole\\Appconsole.csproj",
+        "projectUniqueName": "D:\\Repositorio\\csharp\\projects\\Appconsole\\Appconsole.csproj",
         "projectName": "Appconsole",
-        "projectPath": "D:\\Repositorio\\csharp\\projects\\AppConsole\\Appconsole.csproj",
+        "projectPath": "D:\\Repositorio\\csharp\\projects\\Appconsole\\Appconsole.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorio\\csharp\\projects\\AppConsole\\obj\\",
+        "outputPath": "D:\\Repositorio\\csharp\\projects\\Appconsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

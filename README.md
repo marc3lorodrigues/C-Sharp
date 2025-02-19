@@ -60,6 +60,40 @@ dotnet run Appconsole
 ## Tipo de Dados
 A microsoft fornece uma tabela com os referidos tipos. O conteúdo pode ser acessado no link [Tipos de dado](https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/builtin-types/value-types).
 
+## Estrutura de Dados
+É uma forma de agrupar dados que possuem a mesmas características.
+
+### ArrayList
+Armazena uma lista de dados de qualquer tipo, ou seja, texto, numero e etc.
+
+#### Criando uma lista
+~~~csharp
+var lista = new ArrayList();    // Cria um objeto de lista.
+~~~
+#### Adicionando um item na lista
+~~~csharp
+lista.Add(1);                   
+lista.Add("Linguagem");         
+lista.Add(true);               
+~~~
+#### Acessando um item da lista
+~~~csharp
+var item = lista[1];
+~~~
+#### deletando um item da lista
+~~~csharp
+lista.RemoveAt(0);
+~~~
+
+### Array Tipado
+Armazena uma lista de dados do mesmo tipo.
+
+
+
+
+
+
+
 
 
 
